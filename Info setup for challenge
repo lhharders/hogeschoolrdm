@@ -1,3 +1,12 @@
 You will need the following software:
 - Visual Studio Code: https://code.visualstudio.com/download
+- Azure CLI: https://aka.ms/installazurecliwindows
+- Terraform: https://www.terraform.io/downloads.html
 
+For Terraform: 
+- Unzip from the download the terraform.exe to C:\TerraForm (create a new folder)
+- You will need to add C:\Terraform to the 'path' system variable (systeemvariabelen). Go to start menu and look for 'Edit the system environment variables' (Omgevingsvariabelen voor uw account bewerken). For exact steps, see screenshot in presentation.
+
+For Visual Studio Code, install at least the following extensions:
+- Azure Terraform
+- HashiCorp Terraform
